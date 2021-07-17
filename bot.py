@@ -112,7 +112,7 @@ def desserts(message):
 
         markup = types.InlineKeyboardMarkup(row_width=4)
         for i in range(len(scr_data['desserts'])):
-            btn_txt = f"{scr_data['desserts'][i]['name']} - {scr_data['desserts'][i]['name']}"
+            btn_txt = f"{scr_data['desserts'][i]['name']} - {scr_data['desserts'][i]['price']}"
             item = types.InlineKeyboardButton(btn_txt, callback_data=scr_data['desserts'][i]['id'])
             markup.add(item)
 
@@ -127,8 +127,8 @@ def beverages(message):
         data = json.load(file)
 
         markup = types.InlineKeyboardMarkup(row_width=4)
-        for i in data:
-            btn_txt = f"{i['name']} - {i['price']}"
+        for i in range(len(scr_data['beverages'])):
+            btn_txt = f"{scr_data['beverages'][i]['name']} - {scr_data['beverages'][i]['price']}"
             item = types.InlineKeyboardButton(btn_txt, callback_data=scr_data['beverages'][i]['id'])
             markup.add(item)
 
@@ -159,20 +159,20 @@ def msg_callback(call):
                     bot.send_message(call.message.chat.id, msg_template)
             for i in range(len(scr_data['beverages'])):
                 if call.data == str(scr_data['beverages'][i]['id']):
-                    msg_template = f'{scr_data["salads"][i]["name"]}\n{scr_data["salads"][i]["desc"]}\nЦіна: {scr_data["salads"][i]["price"]}\nВага: {scr_data["salads"][i]["weight"]}'
-                    markup = types.InlineKeyboardMarkup(row_width=4)
-                    item = types.InlineKeyboardButton('Дивитись на сайті', url=data[int(call.data)]['link'])
-                    markup.add(item)
-                    bot.send_photo(call.message.chat.id, data[int(call.data)]['img'])
-                    bot.send_message(call.message.chat.id, msg_template, reply_markup=markup)
+                    msg_template = f'{scr_data["beverages"][i]["name"]}\nЦіна: {scr_data["beverages"][i]["price"]}'
+                    # markup = types.InlineKeyboardMarkup(row_width=4)
+                    # item = types.InlineKeyboardButton('Дивитись на сайті', url=scr_data['beverages'][i]['link'])
+                    # markup.add(item)
+                    bot.send_photo(call.message.chat.id, scr_data['beverages'][i]['img'])
+                    bot.send_message(call.message.chat.id, msg_template)
             for i in range(len(scr_data['desserts'])):
                 if call.data == str(scr_data['desserts'][i]['id']):
-                    msg_template = f'{scr_data["salads"][i]["name"]}\n{scr_data["salads"][i]["desc"]}\nЦіна: {scr_data["salads"][i]["price"]}\nВага: {scr_data["salads"][i]["weight"]}'
-                    markup = types.InlineKeyboardMarkup(row_width=4)
-                    item = types.InlineKeyboardButton('Дивитись на сайті', url=data[int(call.data)]['link'])
-                    markup.add(item)
-                    bot.send_photo(call.message.chat.id, data[int(call.data)]['img'])
-                    bot.send_message(call.message.chat.id, msg_template, reply_markup=markup)
+                    msg_template = f'{scr_data["desserts"][i]["name"]}\n{scr_data["desserts"][i]["desc"]}\nВага: {scr_data["desserts"][i]["desc"]}\nЦіна: {scr_data["desserts"][i]["price"]}'
+                    # markup = types.InlineKeyboardMarkup(row_width=4)
+                    # item = types.InlineKeyboardButton('Дивитись на сайті', url=scr_data['desserts'][i]['link'])
+                    # markup.add(item)
+                    bot.send_photo(call.message.chat.id, scr_data['desserts'][i]['img'])
+                    bot.send_message(call.message.chat.id, msg_template)
     except Exception as e:
         print(e)
 
