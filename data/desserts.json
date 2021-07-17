@@ -1,0 +1,26 @@
+[
+    {
+        "id": "dessert0",
+        "name": "Сирники",
+        "price": "75 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/Syrnyky.png",
+        "desc": "сирники, карамельний соус, сметана",
+        "weight": "240 гр"
+    },
+    {
+        "id": "dessert1",
+        "name": "Сирна запіканка",
+        "price": "82 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/Syrna-zapikanka.png",
+        "desc": "сирна запіканка, ванільний соус, карамельний соус",
+        "weight": "240 гр"
+    },
+    {
+        "id": "dessert2",
+        "name": "Андрути",
+        "price": "65 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/Andruty.png",
+        "desc": "вафлі, згущене молоко, горіхи",
+        "weight": "100 гр"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": "pizza0",
+        "name": "Цезаріо",
+        "price": "212 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/tsezar/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/TSezario-1.png",
+        "desc": "соус вершковий, помідори, хрусткий салат, пармезан, куряче м'ясо, сир моцарела, перепелині яйця.",
+        "size": "30 см см",
+        "weight": "600 гр гр"
+    },
+    {
+        "id": "pizza1",
+        "name": "Кватро формаджі",
+        "price": "202 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/kvatro-formadzhi/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/Kvatro-formadzhi.png",
+        "desc": "соус вершковий, пармезан, сир моцарела, сир рікота, сир дорблю,  волоський горіх, груша.",
+        "size": "30 см см",
+        "weight": "410 гр гр"
+    },
+    {
+        "id": "pizza2",
+        "name": "Піца La П’єц",
+        "price": "187 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/lapiec/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/LA-P_yets-1.png",
+        "desc": "соус томатний, шинка, баварські ковбаски, сир моцарела, ковбаса салямі, прошуто.",
+        "size": "30 см см",
+        "weight": "480 гр гр"
+    },
+    {
+        "id": "pizza3",
+        "name": "Капрічоза",
+        "price": "171 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/kaprichoza/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Kaprichoza-1.png",
+        "desc": "соус томатний, сир моцарела, шинка, свіжі гриби.",
+        "size": "30 см см",
+        "weight": "470 гр гр"
+    },
+    {
+        "id": "pizza4",
+        "name": "Гавайська",
+        "price": "165 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/gavajska/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/gavajska.png",
+        "desc": "сир моцарела, соус вершковий, філе куряче, кукурудза, ананас, оливки, перець болгарський.",
+        "size": "30 см см",
+        "weight": "535 гр гр"
+    },
+    {
+        "id": "pizza5",
+        "name": "Пепероні",
+        "price": "170 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/paperoni/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/paperoni.png",
+        "desc": "сир моцарела, соус барбекю, пепероні, пармезан, рукола.",
+        "size": "30 см см",
+        "weight": "400 гр гр"
+    },
+    {
+        "id": "pizza6",
+        "name": "Карбонара",
+        "price": "172 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/karbonara/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/karbonara_new.png",
+        "desc": "соус томатний, шинка, запечене яйце, сир моцарела, баварські ковбаски.",
+        "size": "30 см см",
+        "weight": "480 гр гр"
+    },
+    {
+        "id": "pizza7",
+        "name": "Салямі",
+        "price": "161 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/salyami/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Salyami.png",
+        "desc": "соус томатний, сир моцарела, ковбаса салямі",
+        "size": "30 см см",
+        "weight": "410 гр гр"
+    },
+    {
+        "id": "pizza8",
+        "name": "Панчетта",
+        "price": "163 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/panchetta/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/panchetta.png",
+        "desc": "сир моцарела, соус кисло-солодкий, грудинка свинна, перець болгарський, огірок корнішон.",
+        "size": "30 см см",
+        "weight": "440 гр гр"
+    },
+    {
+        "id": "pizza9",
+        "name": "Діабола",
+        "price": "157 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/diabola/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/diabola_new.png",
+        "desc": "соус томатний, сир моцарела, перець чилі, ковбаса пепероні.",
+        "size": "30 см см",
+        "weight": "440 гр гр"
+    },
+    {
+        "id": "pizza10",
+        "name": "Маргарита",
+        "price": "129 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/margaryta/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/Margaryta.png",
+        "desc": "соус томатний, сир моцарела, помідори.",
+        "size": "30 см см",
+        "weight": "420 гр гр"
+    },
+    {
+        "id": "pizza11",
+        "name": "Парма",
+        "price": "196 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/parma/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Parma.png",
+        "desc": "соус вершковий, пармезан, сир моцарела, прошуто, рукола.",
+        "size": "30 см см",
+        "weight": "400 гр гр"
+    },
+    {
+        "id": "pizza12",
+        "name": "Шинкарелла",
+        "price": "161 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/proshuto/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Proshuto.png",
+        "desc": "соус томатний, сир моцарела, шинка.",
+        "size": "30 см см",
+        "weight": "410 гр гр"
+    },
+    {
+        "id": "pizza13",
+        "name": "Поло",
+        "price": "164 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/z-kurkoyu/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Polo.png",
+        "desc": "сир моцарела, цибуля, майонез, помідори, куряче м'ясо.",
+        "size": "30 см см",
+        "weight": "450 гр гр"
+    },
+    {
+        "id": "pizza14",
+        "name": "Тоно",
+        "price": "197 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/tono/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Tono.png",
+        "desc": "соус томатний, цибуля, тунець консервований, сир моцарела.",
+        "size": "30 см см",
+        "weight": "470 гр гр"
+    },
+    {
+        "id": "pizza15",
+        "name": "Аль сальмоне",
+        "price": "224 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/al-salmone/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Al-salmone.png",
+        "desc": "соус вершковий, сир моцарела, кунжут, філе лосося.",
+        "size": "30 см см",
+        "weight": "400 гр гр"
+    },
+    {
+        "id": "pizza16",
+        "name": "Меланзана",
+        "price": "174 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/myslyvska/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/Melanzala.png",
+        "desc": "соус вершковий, пармезан, сир моцарела, шинка, баклажани.",
+        "size": "30 см см",
+        "weight": "430 гр гр"
+    },
+    {
+        "id": "pizza17",
+        "name": "Кальцоне аль Форно",
+        "price": "163 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/rybna/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/Kaltsone-al-Forno.png",
+        "desc": "соус томатний, пармезан, сир моцарела, сир рікота, шинка, помідори.",
+        "size": "30 см см",
+        "weight": "470 гр гр"
+    },
+    {
+        "id": "pizza18",
+        "name": "Вегетаріано",
+        "price": "165 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/vegetariano/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/03/Vegetariano.png",
+        "desc": "соус вершковий, сир моцарела, печериці, перець болгарський, броколі.",
+        "size": "30 см см",
+        "weight": "495 гр гр"
+    },
+    {
+        "id": "pizza19",
+        "name": "Вітелло",
+        "price": "229 грн",
+        "link": "https://www.lapiec-pizza.com.ua/product/vitello/",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/03/Vitello.png",
+        "desc": "телятина, соус барбекю, сир моцарела, цибуля синя, огірок корнішон.",
+        "size": "30 см см",
+        "weight": "490 гр гр"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "bev0",
+        "name": "Coca Cola — 0,5 л",
+        "price": "24 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/cola0.5.jpg"
+    },
+    {
+        "id": "bev1",
+        "name": "Coca Cola — 1 л",
+        "price": "33 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/cola1.jpg"
+    },
+    {
+        "id": "bev2",
+        "name": "Fanta — 0,5 л",
+        "price": "24 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/fanta-05l.jpg"
+    },
+    {
+        "id": "bev3",
+        "name": "Fanta — 1 л",
+        "price": "33 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/fanta-1l.jpg"
+    },
+    {
+        "id": "bev4",
+        "name": "Sprite  — 0,5 л",
+        "price": "24 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/sprite-05l.jpg"
+    },
+    {
+        "id": "bev5",
+        "name": "Sprite  — 1 л",
+        "price": "33 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/sprite-1l.jpg"
+    },
+    {
+        "id": "bev6",
+        "name": "Вода BonAqua негазована — 0,5 л",
+        "price": "20 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/bonaqua_non-05l.jpg"
+    },
+    {
+        "id": "bev7",
+        "name": "Вода BonAqua негазована — 1 л",
+        "price": "29 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2021/03/bonaqua_non-1l.jpg"
+    },
+    {
+        "id": "bev8",
+        "name": "Вода BonAqua — 0,5 л",
+        "price": "20 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/03/voda-bonaqua-700-1.jpg"
+    },
+    {
+        "id": "bev9",
+        "name": "Вода BonAqua — 1 л",
+        "price": "29 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/03/voda-bonaqua-05.jpg"
+    },
+    {
+        "id": "bev10",
+        "name": "Томатний сік, 1 л, ТМ “RICH”",
+        "price": "42 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/12/rich_tomatnyj.jpg"
+    },
+    {
+        "id": "bev11",
+        "name": "Яблучний сік освітлений, 1 л, ТМ “RICH”",
+        "price": "42 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/rich_apple.jpg"
+    },
+    {
+        "id": "bev12",
+        "name": "Апельсиновий нектар з м'якоттю, 1 л, ТМ “RICH”",
+        "price": "42 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/rich_orange.jpg"
+    },
+    {
+        "id": "bev13",
+        "name": "Вишневий нектар освітлений, 1 л, ТМ “RICH”",
+        "price": "42 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/rich_cherry.jpg"
+    },
+    {
+        "id": "bev14",
+        "name": "Гранатовий нектар освітлений, 1 л, ТМ “RICH”",
+        "price": "42 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/rich_granat.jpg"
+    },
+    {
+        "id": "bev15",
+        "name": "Екзотик Нектар, 1 л, ТМ “RICH”",
+        "price": "42 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/08/rich_ekzotic.jpg"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": "salad0",
+        "name": "Салат Цезар зі смаженим курячим філе",
+        "price": "135 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/TSezar-z-kurkoyu.png",
+        "desc": "Салат айсберг, помідори, куряче м`ясо, сир пармезан, перепелині яйця, духмяні сухарики та фірмова заправка - соус «Цезар».",
+        "weight": "250 гр"
+    },
+    {
+        "id": "salad1",
+        "name": "Інсалата ді Сальмоне",
+        "price": "144 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/03/Insalata-di-Salmone1.png",
+        "desc": "рукола, помідор чері, огірок, салат айсберг, соус айолі, пармезан, лосось, перепелине яйце, кунжут.",
+        "weight": "285 гр"
+    },
+    {
+        "id": "salad2",
+        "name": "Прімавера",
+        "price": "109 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/03/Primavera.png",
+        "desc": "сир моцарела, салат айсберг, помідор чері, огірок, болгарський перець, оливкова олія, фреш лимонний, орегано.",
+        "weight": "255 гр"
+    },
+    {
+        "id": "salad3",
+        "name": "Салат Цезар з телятиною",
+        "price": "173 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/05/TSezar-z-telyatynoyu.png",
+        "desc": "Салат айсберг, помідори, телятина, сир пармезан, перепелині яйця, духмяні сухарики та фірмова заправка - соус «Цезар».",
+        "weight": "250 гр"
+    },
+    {
+        "id": "salad4",
+        "name": "Інсалата ді Фета",
+        "price": "122 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/Feta.png",
+        "desc": "Салат айсберг, свіжі овочі, сир фета, кунжут, оливки, бальзамічна заправка.",
+        "weight": "250 гр"
+    },
+    {
+        "id": "salad5",
+        "name": "Інсалата ді Прошуто",
+        "price": "125 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2018/07/Insalata-di-Proshuto.png",
+        "desc": "Салат айcберг, прошуто, сир пармезан, помідори, рукола та бальзамічна заправка.",
+        "weight": "175 гр"
+    },
+    {
+        "id": "salad6",
+        "name": "Інсалата ді Тоно",
+        "price": "137 грн",
+        "img": "https://www.lapiec-pizza.com.ua/wp-content/uploads/2019/03/Insalata-di-Tono.png",
+        "desc": "оливки, огірок, помідор чері, салат айсберг, оливкова олія, фреш лимонний, тунець, перепелине яйце, цибуля синя, кунжут.",
+        "weight": "280 гр"
+    }
+]
